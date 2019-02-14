@@ -15,7 +15,7 @@ npm install --save bristol-graylog graylog2 bristol
 ```js
 const bristol = require('bristol');
 const graylog2 = require("graylog2");;
-const bristolGraylog = require('./lib/bristol-graylog');
+const bristolGraylog = require('bristol-graylog');
 
 const target = bristolGraylog({ 
   client: new graylog2.graylog({
