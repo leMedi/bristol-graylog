@@ -5,7 +5,7 @@
   "main": "lib/bristol-graylog.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeffijoe/bristol-sentry.git"
+    "url": "git+https://github.com/leMedi/bristol-graylog.git"
   },
   "author": "LeMidi <mehdi.elhaij@outlook.com>",
   "keywords": [
