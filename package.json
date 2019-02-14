@@ -1,6 +1,6 @@
 {
   "name": "bristol-graylog",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Graylog transport(target) for the Bristol logger",
   "main": "lib/bristol-graylog.js",
   "repository": {
